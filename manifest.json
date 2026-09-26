@@ -1,0 +1,21 @@
+{
+  "background_color": "#0f172a",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "WealthFlow",
+  "orientation": "any",
+  "scope": "/expense-tracker/",
+  "short_name": "Expense Tracker",
+  "start_url": "/expense-tracker/",
+  "theme_color": "#1e293b",
+  "id": "gowthamoffll-expense-tracker",
+  "description": "A modern, responsive personal finance and wealth management web application built with vanilla JavaScript, Tailwind CSS, and Chart.js. Features real-time cash flow tracking, budget management, asset breakdown, and local storage persistence.",
+  "lang": "en",
+  "categories": [
+    "finance"
+  ],
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ]
+}
